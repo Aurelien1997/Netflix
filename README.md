@@ -1,7 +1,7 @@
 ## Netflix
 
 ## Web version 🌐 <br>
-Here 👉 [Netflix](https://netflix-firebase.netlify.app/#)
+The website is here 👉 [Netflix](https://netflix-firebase.netlify.app/#)
 
 ## Technologies used ⚙️<br>
 <a href="https://fr.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
