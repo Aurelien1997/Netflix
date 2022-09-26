@@ -1,4 +1,4 @@
-## Netflix
+# Netflix
 
 ## Web version 🌐 <br>
 The website is here 👉 [Netflix](https://netflix-firebase.netlify.app/#)
